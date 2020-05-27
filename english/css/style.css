@@ -260,7 +260,7 @@ h3.menu-item-title {
 @media (min-width: 761px) and (max-width: 991px) {
   /* Header */
   #logo-img {
-    background: url('../images/Logo_700.png') no-repeat;
+    background: url('../images/Logo_768.png') no-repeat;
     width: 800px;
     height: 100px;
     margin: 5px 5px 5px 0;
@@ -283,7 +283,7 @@ h3.menu-item-title {
 @media (max-width: 767px) {
   /* Header */
   #logo-img {
-    background: url('../images/Logo_768.png') no-repeat;
+    background: url('../images/Logo_700.png') no-repeat;
     width: 800px;
     height: 100px;
     margin: 5px 5px 5px 0;
